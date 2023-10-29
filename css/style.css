@@ -84,4 +84,53 @@ section#instructors i:hover{
 
 /*! -------------- 6- CONTACT SECTION ------------ */
 
+section#courses .nav-link.active{
+    background-color: var(--red);
+    
+}
+section#courses .nav-link{
+    color: white;
+}
+section#courses .nav-pill{
+    font-size: .8rem !important;
+    
+}
+
 /*! -------------- 7- FOOTER --------------------- */
+
+footer i{
+    color: white;
+    font-size: 2rem;
+    margin-right: .8rem;
+    transition: color 1s;
+
+}
+footer i:hover{
+    color: var(--red) !important;
+
+}
+
+
+/* -------------------------------------------------------------------------- */
+/*                                    buton                                   */
+/* -------------------------------------------------------------------------- */
+
+.btn-up{
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    background-color: var(--red);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    transition: all .5s;
+}
+.btn-up:hover{
+    color: black;
+}
