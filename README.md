@@ -13,6 +13,14 @@ The Online Education Platform is a web application developed using HTML, CSS, Bo
 
 ## Description:
 The Online Education Platform provides users with an interactive interface to browse courses, explore instructor profiles, and contact platform administrators. It consists of sections such as home, about us, instructors, student testimonials, course listings, and a contact form.
+## Screenshot
+
+![Screenshot](./Screenshot_2.jpg)
+![Screenshot](./Screenshot_1.jpg)
+![Screenshot](./Screenshot_3.jpg)
+
+## Live Demo:
+- [Link to live demo](https://bootstrap-vert-six.vercel.app/)
 
 ## Technologies Used:
 - HTML5
